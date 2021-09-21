@@ -1,5 +1,11 @@
 # KAP - Kyanite's Asset Packs
 
+- [KAP - Kyanite's Asset Packs](#kap---kyanite-s-asset-packs)
+  * [OSL 에셋 배포 조건](#osl---------)
+  * [에셋 종류 정리](#--------)
+  * [에셋 수식어](#------)
+  * [에셋 추가 요청 / 리퀘스트](#---------------)
+
 ## OSL 에셋 배포 조건
 
 ```markdown
@@ -40,4 +46,10 @@ BGP - SYMPLE(심플), ERR(에러), DRAW(그림), SF(SF)등 여러가지
 ETC - MOG(모션그래픽용 장식), TEX(텍스트)
 
 공통 - BEST(잘팔림), WROST(안팔림)
+
+
+## 에셋 추가 요청 / 리퀘스트
+
+에셋 추가 요청이나, 리퀘스트 등은 레포지토리의 [이슈](https://github.com/KaiNiGHt/KAP/issues)에서 신청하실 수 있습니다.
+협업 요청도 가능합니다.
 
