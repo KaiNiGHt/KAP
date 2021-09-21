@@ -2,7 +2,7 @@
 
 ## OSL 에셋 배포 조건
 
-```
+```markdown
 에셋명: KAP - Kyanite Asset Pack
 투고자 디스코드 닉네임(태그 포함): Kyanite#2847
 닉네임 기재여부:비 필수
@@ -21,6 +21,7 @@ CTP - 커스텀 타일 팩
 MSP - 마법진 팩
 
 7CAT - 7BG 에셋 커스텀 팩
+
 BGP - 백그라운드(배경) 에셋 팩
 
 ETC - 기타 에셋 팩
